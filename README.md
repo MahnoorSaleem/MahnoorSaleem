@@ -55,5 +55,4 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MahnoorSaleem-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahnoor-saleem/)  
-[![Email](https://img.shields.io/badge/Email-mhnrsaleem579%40gmail.com-red?style=flat&logo=gmail)](mailto:mhnrsaleem579@gmail.com)
+Feel free to reach out to me through [![Email Badge](https://img.shields.io/badge/Email-mhnrsaleem579%40gmail.com-blue)](mailto:mhnrsaleem579@gmail.com) or [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Mahnoor%20Saleem-blue)](https://www.linkedin.com/in/mahnor-saleem/). I'm always open to interesting conversations and new opportunities!
