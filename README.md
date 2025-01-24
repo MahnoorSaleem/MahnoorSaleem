@@ -1,55 +1,28 @@
 ## 👋 Hi, I'm Mahnoor Saleem! 
 
-### Full Stack Software Developer | AWS Certified 🌐  
-
-## 👩‍💻 About Me
-
-**Full Stack Software Developer** with professional experience in building robust, scalable, and maintainable software solutions. My expertise lies in modern technologies like **AWS**, **Node.js**, **React.js**, and **Nest.js**. I excel in delivering enterprise-level solutions through Test-Driven Development (TDD), ensuring quality and functionality.
-
+### Full Stack Software Developer | AWS Certified 🌐 
+ 
 - 🌍 Based in: Abu Dhabi, UAE
 - 📧 Email: [mhnrsaleem579@gmail.com](mailto:mhnrsaleem579@gmail.com)
 - 🔗 LinkedIn: [Visit My LinkedIn Profile](https://www.linkedin.com/in/mahnoor-saleem/)
 
----
+## 👩‍💻 About Me
 
-## 🛠️ Technical Skills
-
-### **Programming & Frameworks**
-- **JavaScript/TypeScript**: Node.js, React.js, Nest.js, Express.js, Angular
-- **API Development**: REST, GraphQL (Node.js, Express, Nest.js)
-- **Database Management**: 
-  - SQL: SQL Server
-  - NoSQL: MongoDB, ElasticSearch
-
-### **Cloud & DevOps**
-- **Cloud Platforms**: AWS (S3, Lambda, CloudFormation, AppSync, Cognito, CloudWatch, API Gateway, EventBridge, SNS)
-- **Containerization**: Docker
-- **Version Control**: Git
-
-### **Testing & Best Practices**
-- **Testing Frameworks**: Jest
-- Clean Code Practices | TDD | Agile Methodologies
+🔭 **Current Projects:** Actively working on full-stack development using ReactJS, Node.js, and AWS, focusing on building scalable, secure, and performant microservices architectures.  
+🌱 **Learning Journey:** **Learning Journey:** Exploring advanced cloud solutions with AWS, delving deeper into serverless architecture, and staying updated on the latest in frontend and backend technologies like ReactJS, NodeJs. Additionally, diving into Kafka for building scalable and efficient messaging systems.    
+👯 **Collaboration Goals:** Thrilled to collaborate with talented developers and designers on challenging projects to innovate and solve real-world problems.  
+🥅 **Future Goals:** Aiming to contribute to open-source projects, enhance my cloud expertise, and lead impactful projects that push the boundaries of technology.  
+💬 **Expertise Areas:** Skilled in Node.js, Express, NestJS, ReactJS, AWS services, MongoDB, SQL Server, Docker, and Test-Driven Development (TDD). Let’s connect and discuss ideas or projects!
 
 ---
 
-## 📜 Certifications
-- **AWS Cloud Practitioner** *(June 2022 – June 2025)*
+### 🛠️ **Language and Tools**
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-## 🏆 Achievements
-- **Gold Medalist**: Bachelor of Computer Sciences, NFC Institute of Engineering and Technology 
-- Recognized as *Star of the Quarter* at Systems Limited (Jan 2023).
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![REST](https://img.shields.io/badge/REST-005571?style=for-the-badge&logo=rest&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
----
-
-## 📈 Most Used Technologies
-
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) 
 
 ---
 
