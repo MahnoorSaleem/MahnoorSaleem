@@ -9,7 +9,7 @@
 ## 👩‍💻 About Me
 
 🔭 **Current Projects:** Actively working on full-stack development using ReactJS, Node.js, and AWS, focusing on building scalable, secure, and performant microservices architectures.  
-🌱 **Learning Journey:** **Learning Journey:** Exploring advanced cloud solutions with AWS, delving deeper into serverless architecture, and staying updated on the latest in frontend and backend technologies like ReactJS, NodeJs. Additionally, diving into Kafka for building scalable and efficient messaging systems.    
+🌱 **Learning Journey:** Exploring advanced cloud solutions with AWS, delving deeper into serverless architecture, and staying updated on the latest in frontend and backend technologies like ReactJS, NodeJs. Additionally, diving into Kafka for building scalable and efficient messaging systems.    
 👯 **Collaboration Goals:** Thrilled to collaborate with talented developers and designers on challenging projects to innovate and solve real-world problems.  
 🥅 **Future Goals:** Aiming to contribute to open-source projects, enhance my cloud expertise, and lead impactful projects that push the boundaries of technology.  
 💬 **Expertise Areas:** Skilled in Node.js, Express, NestJS, ReactJS, AWS services, MongoDB, SQL Server, Docker, and Test-Driven Development (TDD). Let’s connect and discuss ideas or projects!
