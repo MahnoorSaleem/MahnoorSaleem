@@ -28,7 +28,8 @@
 | Project | Stack | Description |
 |---|---|---|
 | [docs-rag-chatbot](https://github.com/MahnoorSaleem/rag-docs-chatbot) | Node.js · RAG · LLM | Ask questions over your own documentation — RAG pipeline with semantic search and context-aware responses |
-| [customer-support-chatbot](https://github.com/MahnoorSaleem/rag-customer-support-bot) | Node.js · RAG · LLM | Automated customer support using retrieval-augmented generation over a product knowledge base |
+| [customer-support-chatbot](https://github.com/MahnoorSaleem/rag-customer-support-bot) | Node.js · RAG · LLM | Automated customer support using retrieval-augmented generation over an airline policy 
+  ▎ knowledge base |
 
 ---
 
